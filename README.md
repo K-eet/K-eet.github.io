@@ -2,6 +2,7 @@
 
 ## Education
   The University of Nottingham Malaysia
+  
   BEng Civil Engineering
 
 ## Certification
