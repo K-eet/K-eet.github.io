@@ -6,7 +6,8 @@
 - BEng Civil Engineering | The University of Nottingham Malaysia (_May 2025_)
 
 ## Certification
-- ![Google Data Analytics](/assets/Data_Analytics_Cert.jpg)
+-Google Data Analyics
+  ![Google Data Analytics](/assets/Data_Analytics_Cert.jpg)
 
 ## Projects
 ### Design document for student accommodations
