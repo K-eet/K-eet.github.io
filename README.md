@@ -1,13 +1,10 @@
-# Civil Engineering, Data Analytics
+# CV & Portfolio
 
-#### Technical Skills: Python, SQL, AutoCAD, Revit, Fusion360
-
-## Education
-- BEng Civil Engineering | The University of Nottingham Malaysia (_May 2025_)
-
-## Projects
-### Design document for student accommodations
+## CV
 
 ## Certifications
 - Google Data Analytics
   ![Google Data Analytics](/assets/Data_Analytics_Cert.jpg)
+
+## Portfolio Projects
+- [Ecommerce Data Analytics](https://github.com/K-eet/Portfolio_Projects)
