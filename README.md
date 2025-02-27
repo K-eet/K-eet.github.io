@@ -2,7 +2,7 @@
 
 ## CV
 
-<embed src="./assets/Resume_(Latest).pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/assets/Resume_(Latest).pdf" type="application/pdf" width="100%" height="600px" />
 
 [Download the PDF document](/assets/Resume_(Latest).pdf) if the viewer above doesn't work.
 ## Certifications
