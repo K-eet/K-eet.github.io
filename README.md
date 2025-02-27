@@ -1,7 +1,10 @@
 # CV & Portfolio
 
 ## CV
-<iframe src="https://docs.google.com/viewer?url=https://k-eet.github.io/k-eet.github.io/assets/Resume_(Latest).pdf&embedded=true" width="100%" height="600px" style="border: none;"></iframe>
+
+<embed src="./assets/Resume_(Latest).pdf" type="application/pdf" width="100%" height="600px" />
+
+[Download the PDF document](/assets/Resume_(Latest).pdf) if the viewer above doesn't work.
 ## Certifications
 - Google Data Analytics
   ![Google Data Analytics](/assets/Data_Analytics_Cert.jpg)
