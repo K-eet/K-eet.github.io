@@ -3,7 +3,7 @@
 - [Ecommerce Data Analytics](https://github.com/K-eet/Portfolio_Projects)
   
 ## CV
-<embed src="/assets/CV-Latest).pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/assets/Lee-Keet-Men-CV.pdf" type="application/pdf" width="100%" height="600px" />
 
 [Download the PDF document](/assets/Resume_(Latest).pdf) if the viewer above doesn't work.
 ## Certifications
