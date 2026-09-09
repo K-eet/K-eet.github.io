@@ -32,13 +32,3 @@ The projects linked from the page live in a separate repository,
 - [Lee-Keet-Men-CV.pdf](assets/Lee-Keet-Men-CV.pdf) — the CV the site links to
 - [Google Data Analytics certificate](assets/Coursera_Google_Data_Analytics_Certificate.pdf) ([image](assets/Data_Analytics_Cert.jpg))
 
-## Working on it
-
-There is no build step. Open `index.html` in a browser, or serve the folder:
-
-```sh
-python -m http.server 8000
-```
-
-To update the site: edit the markup in `index.html` directly, and replace
-`assets/Lee-Keet-Men-CV.pdf` to publish a new CV. Pushing to `main` deploys.
