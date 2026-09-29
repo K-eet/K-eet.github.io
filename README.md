@@ -26,6 +26,7 @@ The projects linked from the page live in a separate repository,
 - [UK Tech Outbound](https://github.com/K-eet/Portfolio_Projects/tree/main/UK%20Tech%20Outbound) — ideal-customer-profile and target-account scoring over the Companies House register
 - [Ecommerce Data Analytics](https://github.com/K-eet/Portfolio_Projects/tree/main/Ecommerce%20Data%20Analytics) — ETL design, customer lifetime value and churn analysis on transactional retail data
 - [Financial Analysis](https://github.com/K-eet/Portfolio_Projects/tree/main/Financial%20Analysis) — Tesla, BYD and Ford compared from SEC EDGAR filings
+- [Student Engagement Analysis](https://github.com/K-eet/Portfolio_Projects/tree/main/Student%20Engagement%20Analysis) — whether early activity on an online course is an early warning sign for withdrawal, from Open University data
 
 ## CV and certifications
 
